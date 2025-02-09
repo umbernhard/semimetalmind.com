@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Against Method.md",
+                "file": "Intertextuality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Against Method"
+              "title": "Intertextuality"
             }
           },
           {
@@ -54,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Against Method.md",
+                "file": "_staging/What is this?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Against Method"
+              "title": "Backlinks for What is this?"
             }
           },
           {
@@ -126,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Against Method.md",
+                "file": "_staging/What is this?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Against Method"
+              "title": "Outgoing links from What is this?"
             }
           },
           {
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Against Method.md"
+                "file": "_staging/What is this?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Against Method"
+              "title": "Outline of What is this?"
             }
           }
         ]
@@ -178,7 +179,9 @@
   },
   "active": "1bcc3364a63c670f",
   "lastOpenFiles": [
-    "A Treatise on Treatises.md",
-    "Against Method.md"
+    "What is this?.md",
+    "Intertextuality.md",
+    "Against Method.md",
+    "A Treatise on Treatises.md"
   ]
 }
