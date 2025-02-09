@@ -10,4 +10,4 @@ The primary thrust of this work is that rationalism only gets us so far as a [[p
 
 I think this insight is invaluable, particularly in times when rationalism and science as a whole appears to be out of favor, and utterly powerless to stop humanity from doing all manner of ascientific or antiscientific things (like ignoring climate change, disbelieving electoral processes, and refusing to heed warnings of experts in infectious disease).
 
-[^1]: (H/T to [[Justin Kirkwood]]'s [[Liber Indigo]] for drawing that connection for me)
+[^1]: (H/T to [Justin Kirkwood's](https://www.justinckirkwood.net) [[Liber Indigo]] for drawing that connection for me)
