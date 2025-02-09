@@ -1,6 +1,5 @@
 ---
 Title: Against Method
-Author: "[[Paul Feyerabend]]"
 ---
 
 Author: [[Paul Feyerabend]]

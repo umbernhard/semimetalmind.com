@@ -35,8 +35,7 @@
               "title": "Against Method"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Against Method.md",
+                "file": "A Treatise on Treatises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Against Method"
+              "title": "Backlinks for A Treatise on Treatises"
             }
           },
           {
@@ -127,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Against Method.md",
+                "file": "A Treatise on Treatises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Against Method"
+              "title": "Outgoing links from A Treatise on Treatises"
             }
           },
           {
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Against Method.md"
+                "file": "A Treatise on Treatises.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Against Method"
+              "title": "Outline of A Treatise on Treatises"
             }
           }
         ]
@@ -177,9 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66b348723b42c3a5",
+  "active": "2c81f384c11eea21",
   "lastOpenFiles": [
-    "A Treatise on Treatises.md",
-    "Against Method.md"
+    "Against Method.md",
+    "A Treatise on Treatises.md"
   ]
 }
