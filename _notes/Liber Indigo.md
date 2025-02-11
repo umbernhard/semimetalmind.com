@@ -1,5 +1,6 @@
 ---
 Title: Liber Indigo
+created: 2025-02-08
 ---
 Liber Indigo is a delightfully weird book. It has some incredibly concise criticisms of rationalism and is a very scattershot survey of some thinking around the limitations of materialism. Reading it made me want to revisit [[Against Method]], and think about how to think about things beyond the boundaries of rationalism. 
 

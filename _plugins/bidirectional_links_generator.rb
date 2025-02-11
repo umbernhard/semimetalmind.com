@@ -15,6 +15,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     # Convert all Wiki/Roam-style double-bracket link syntax to plain HTML
     # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|
+      puts current_note.inspect
       all_docs.each do |note_potentially_linked_to|
 
         if current_note.data['title']

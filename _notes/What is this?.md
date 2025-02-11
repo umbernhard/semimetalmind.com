@@ -1,5 +1,6 @@
 ---
 Title: What is this?
+created: 2025-02-09
 ---
 To be quite honest, I'm not really sure yet. I have had the itch to start some kind of creative endeavor for some time, and writing is by far the lowest cost of startup thing. I really enjoy writing notes in [Obsidian](https://obsidian.md), so it seemed somewhat natural to try to build a blogging platform off of that. Coupled with that, there a few good guides out there for doing just that with a [digital garden](https://joelhooks.com/digital-garden/) approach. 
 ## Digital Gardens

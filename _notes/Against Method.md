@@ -1,7 +1,7 @@
 ---
 Title: Against Method
+created: 2025-02-08
 ---
-
 Author: [[Paul Feyerabend]]
 
 The primary thrust of this work is that rationalism only gets us so far as a [[philosophy of science]], and often times is artificially limiting to the process of scientific discovery. Feyerabend instead argues for a different approach: "anything goes," which is to say it is acceptable to rely on non-rational or non-materialist methods to inform the scientific process. In fact, we often do this anyway. To quote [[Alan Turing]]'s [[Computing Machinery and Intelligence]], 

@@ -1,5 +1,6 @@
 ---
 Title: Intertextuality
+created: 2025-02-08
 ---
 I *love* intertextuality. Works of art that reference or critique other works of art. Here are some of my favorite examples:
 

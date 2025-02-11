@@ -1,6 +1,6 @@
 ---
 Title: Observations
-Date: February 10th, 2025
+created: 2025-02-10
 ---
 In continuing to read [[Against Method]], I've now gotten through chapters 5 and 6, which discuss observations and interpretations. Chapter 5 covers the fact that basically all scientific endeavors frequently include ad hoc reasoning that isn't striclty based in observation or fact. In the very early literature, such ad hoc reasoning was made explicit in the text, which causes modern audiences to look down at those scientists (Bacon, Galileo, Newton, Descartes, etc.) as less than rigorous specifically due to their admissions of such ad hoc reasoning. 
 

@@ -1,5 +1,6 @@
 ---
 Title: A Treatise on Treatises
+created: 2025-02-08
 ---
 
 They should be shorter.

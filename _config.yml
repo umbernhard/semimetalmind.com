@@ -35,6 +35,7 @@ plugins:
 sass:
   sass_dir:          _sass
   style:            :compressed
+  quiet_deps: true
 
 collections:
   notes:

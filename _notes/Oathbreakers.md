@@ -1,5 +1,6 @@
 ---
 Title: Oathbreakers
+created: 2025-02-09
 ---
 I've started listening to audio books on my runs. I started with Yuval Noah Harare's book [[Nexus]], which as deeply disappointing in a way that maybe I'll write about someday. So many words, so little depth or actual analysis. 
 
