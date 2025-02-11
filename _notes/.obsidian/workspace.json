@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liber Indigo.md",
+                "file": "Templates/Post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liber Indigo"
+              "title": "Post"
+            }
+          },
+          {
+            "id": "5ffc939015410e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science is basically, like, a miracle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Science is basically, like, a miracle"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_staging/What is this?.md",
+                "file": "Science is basically, like, a miracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is this?"
+              "title": "Backlinks for Science is basically, like, a miracle"
             }
           },
           {
@@ -174,13 +188,26 @@
               "icon": "lucide-list",
               "title": "Outline of What is this?"
             }
+          },
+          {
+            "id": "63a7b60ea9b9201c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +219,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff9a52ffc82ba7af",
+  "active": "5ffc939015410e1e",
   "lastOpenFiles": [
-    "Against Method.md",
+    "Assets/markballot.jpg",
+    "Assets",
+    "Assets/markballot.jpg",
+    "Templates/Post.md",
+    "Science is basically, like, a miracle.md",
     "Liber Indigo.md",
+    "Templates",
+    "Against Method.md",
     "Oathbreakers.md",
     "Intertextuality.md",
     "What is this?.md",

@@ -1,6 +1,9 @@
 title: Semimetalmind
-include: ['_pages']
-exclude: ['_includes/notes_graph.json']
+include:
+  - '_pages'
+  - '_notes/Assets'
+
+exclude: ['_includes/notes_graph.json', '_notes/staging', '_notes/Templates']
 
 email: matt@semimetalmind.com
 description: >- # this means to ignore newlines until "baseurl:"

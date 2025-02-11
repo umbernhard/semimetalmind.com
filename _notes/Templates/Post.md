@@ -1,0 +1,4 @@
+---
+Title: Title
+Date: "{{date}}"
+---
