@@ -12,7 +12,7 @@ As an example from my own work, we frequently say things like "\[...\] select ba
 
 Even *one* of these steps conveys a continent of observational prescription. For example, "observe and record the votes on each one" is an astonishingly complex task. Presumably, "observe" means "look at the ballot and determine what vote is recorded on it," but even _that_ is ludicrously complex. It implies that such a determination will be made in a way that is consistent across both time (i.e. the same person looking at the same ballot will make the same determination) and auditors (two different auditors looking at the same ballot will make the same determination). This is an impossibility a non-trivial amount of the time! For example, how would this ballot be adjudicated?[^3]
 
-![an ambiguously marked ballot](markballot.jpg)
+![an ambiguously marked ballot](assets/markballot.jpg)
 
 This is to say nothing of the actual act of observing a ballot in the first place, which involves the complex workings of the human eye and brain, and light, as previously discuss with Newton and the apple, properties of ink and paper, and so much more. In making that statement, we are assuming that optics function in a way that has been well documented (and experienced by humans for functionally all of time). We are assuming the auditor's brains and eyes function like those of our own (for example, if red ink is not considered a valid mark,[^4] a voter marks a ballot in green, and the auditor has deuteranopia, our statement doesn't really account for dealing with this situation).
 
