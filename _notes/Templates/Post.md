@@ -1,4 +1,4 @@
 ---
-Title: Title
-Date: "{{date}}"
+Title: "{{title}}"
+created: ""
 ---
